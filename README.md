@@ -4,7 +4,7 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 [![Discord](https://img.shields.io/discord/YOUR_DISCORD_SERVER_ID?color=7289da&label=Discord&logo=discord&logoColor=ffffff)](https://discord.gg/XzDPRNsSYn)
 ![Python](https://img.shields.io/badge/python-3.6%2B-blue)
-![License](https://img.shields.io/github/license/your_username/BBBMsgr)
+![License](https://img.shields.io/github/license/developedbyalex/BBBMsgr)
 
 BBBMsgr is a powerful tool designed to facilitate bulk messaging for BuiltByBit resource authors. It allows you to send personalized messages to all purchasers of your resource, making it easy to communicate important updates, gather feedback, or provide support.
 

@@ -20,7 +20,7 @@ BBBMsgr is a powerful tool designed to facilitate bulk messaging for BuiltByBit 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your_username/BBBMsgr.git
+    git clone https://github.com/developedbyalex/BBBMsgr.git
     ```
 2. Navigate to the project directory:
     ```bash

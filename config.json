@@ -1,0 +1,6 @@
+{
+    "API_TOKEN": "your_api_token_here",
+    "RESOURCE_ID": "your_resource_id_here",
+    "MESSAGE_TITLE": "Your Message Title",
+    "MESSAGE_CONTENTS": "Your message contents here"
+}

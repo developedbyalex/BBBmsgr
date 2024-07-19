@@ -44,6 +44,8 @@ Create a `config.json` file in the project root with the following structure:
 }
 ```
 
+_Note: to use the next line in message contents use <n>_
+
 ## Usage
 
 Run the script with:

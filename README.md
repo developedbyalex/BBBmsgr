@@ -2,7 +2,7 @@
 # BBBMsgr - BuiltByBit Bulk Messaging Tool
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_SERVER_ID?color=7289da&label=Discord&logo=discord&logoColor=ffffff)](https://discord.gg/XzDPRNsSYn)
+[![Discord](https://img.shields.io/discord/1225531121815781376?color=7289da&label=Discord&logo=discord&logoColor=ffffff)](https://discord.gg/XzDPRNsSYn)
 ![Python](https://img.shields.io/badge/python-3.6%2B-blue)
 ![License](https://img.shields.io/github/license/developedbyalex/BBBMsgr)
 
